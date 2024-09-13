@@ -4,7 +4,6 @@ This page contains the programs and files to access the RPLidar A3M1 type lidar 
 **STEPS TO RUN**
 
 *Make sure you already install ROS Noetic on yout computer*
-*Make sure you *
 
 **Create New Package in ROS**
 
